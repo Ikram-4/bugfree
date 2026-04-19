@@ -14,7 +14,7 @@
 **A full-pipeline, real-recon bug bounty automation tool.**  
 From passive subdomain enumeration all the way to active XSS, SSRF, and IDOR testing — in one command.
 
-*Made by KJI*
+*Made by IK*
 
 ![Platform](https://img.shields.io/badge/platform-Linux-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen)
